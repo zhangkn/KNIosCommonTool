@@ -1,1 +1,0 @@
-KNIosCommonTool/Podspec Metadata/README.md
