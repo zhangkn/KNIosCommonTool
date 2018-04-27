@@ -16,6 +16,7 @@
 		E10947CA20931C6D00A1E659 /* HCPEnvrionmentalVariables.m in Sources */ = {isa = PBXBuildFile; fileRef = E10947C820931C6C00A1E659 /* HCPEnvrionmentalVariables.m */; };
 		E10947D82093259300A1E659 /* KNIosCommonTool.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E10947D62093259200A1E659 /* KNIosCommonTool.podspec */; };
 		E10947D92093259300A1E659 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E10947D72093259200A1E659 /* README.md */; };
+		E10947DD2093299C00A1E659 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E10947DC2093299C00A1E659 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		E10947C920931C6D00A1E659 /* HSSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSSingleton.h; sourceTree = "<group>"; };
 		E10947D62093259200A1E659 /* KNIosCommonTool.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = KNIosCommonTool.podspec; sourceTree = "<group>"; };
 		E10947D72093259200A1E659 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E10947DC2093299C00A1E659 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				E10947D62093259200A1E659 /* KNIosCommonTool.podspec */,
+				E10947DC2093299C00A1E659 /* LICENSE */,
 				E10947D72093259200A1E659 /* README.md */,
 				E10947B020931BC000A1E659 /* KNIosCommonTool */,
 				E10947AF20931BC000A1E659 /* Products */,
@@ -166,6 +169,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E10947DD2093299C00A1E659 /* LICENSE in Resources */,
 				E10947BE20931BC000A1E659 /* LaunchScreen.storyboard in Resources */,
 				E10947BB20931BC000A1E659 /* Assets.xcassets in Resources */,
 				E10947D92093259300A1E659 /* README.md in Resources */,

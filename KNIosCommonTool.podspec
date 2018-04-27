@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "KNIosCommonTool"
   s.version      = "0.0.1"
-  s.summary      = "A short description of KNIosCommonTool."
+  s.summary      = "KNIosCommonTool Provides common tools for iOS"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "http://EXAMPLE/KNIosCommonTool"
+  s.homepage     = "https://github.com/zhangkn/KNIosCommonTool"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -38,7 +38,8 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
+  #s.license      = "MIT (example)"
+   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
