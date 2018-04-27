@@ -14,8 +14,6 @@
 		E10947BE20931BC000A1E659 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E10947BC20931BC000A1E659 /* LaunchScreen.storyboard */; };
 		E10947C120931BC000A1E659 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E10947C020931BC000A1E659 /* main.m */; };
 		E10947CA20931C6D00A1E659 /* HCPEnvrionmentalVariables.m in Sources */ = {isa = PBXBuildFile; fileRef = E10947C820931C6C00A1E659 /* HCPEnvrionmentalVariables.m */; };
-		E10947D4209324F200A1E659 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E10947D2209324F100A1E659 /* README.md */; };
-		E10947D5209324F200A1E659 /* KNIosCommonTool.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E10947D3209324F100A1E659 /* KNIosCommonTool.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +30,6 @@
 		E10947C720931C6C00A1E659 /* HCPEnvrionmentalVariables.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HCPEnvrionmentalVariables.h; sourceTree = "<group>"; };
 		E10947C820931C6C00A1E659 /* HCPEnvrionmentalVariables.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HCPEnvrionmentalVariables.m; sourceTree = "<group>"; };
 		E10947C920931C6D00A1E659 /* HSSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSSingleton.h; sourceTree = "<group>"; };
-		E10947D2209324F100A1E659 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		E10947D3209324F100A1E659 /* KNIosCommonTool.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = KNIosCommonTool.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,8 +98,6 @@
 		E10947D120931F5C00A1E659 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				E10947D3209324F100A1E659 /* KNIosCommonTool.podspec */,
-				E10947D2209324F100A1E659 /* README.md */,
 			);
 			path = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -166,10 +160,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E10947D5209324F200A1E659 /* KNIosCommonTool.podspec in Resources */,
 				E10947BE20931BC000A1E659 /* LaunchScreen.storyboard in Resources */,
 				E10947BB20931BC000A1E659 /* Assets.xcassets in Resources */,
-				E10947D4209324F200A1E659 /* README.md in Resources */,
 				E10947B920931BC000A1E659 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
