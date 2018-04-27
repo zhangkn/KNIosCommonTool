@@ -1,1 +1,1 @@
-/Users/devzkn/code/cocoapodDemo/podDemo/KNIosCommonTool/KNIosCommonTool/Podspec Metadata/README.md
+KNIosCommonTool/Podspec Metadata/README.md
