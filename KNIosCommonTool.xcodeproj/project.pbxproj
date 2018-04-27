@@ -33,7 +33,7 @@
 		E10947C720931C6C00A1E659 /* HCPEnvrionmentalVariables.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HCPEnvrionmentalVariables.h; sourceTree = "<group>"; };
 		E10947C820931C6C00A1E659 /* HCPEnvrionmentalVariables.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HCPEnvrionmentalVariables.m; sourceTree = "<group>"; };
 		E10947C920931C6D00A1E659 /* HSSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSSingleton.h; sourceTree = "<group>"; };
-		E10947D62093259200A1E659 /* KNIosCommonTool.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = KNIosCommonTool.podspec; sourceTree = "<group>"; };
+		E10947D62093259200A1E659 /* KNIosCommonTool.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = KNIosCommonTool.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E10947D72093259200A1E659 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E10947DC2093299C00A1E659 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
