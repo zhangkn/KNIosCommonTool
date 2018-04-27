@@ -25,6 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
+  TODO: Add long description of the pod here.
                    DESC
 
   s.homepage     = "https://github.com/zhangkn/KNIosCommonTool"
@@ -91,11 +92,10 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "KNIosCommonTool/Classes", "Classes/**/*.{h,m}"
+  s.source_files  = "KNIosCommonTool/Classes", "KNIosCommonTool/Classes/**/*.{h,m}"
   #  s.exclude_files = "Classes/Exclude"
 
-   s.public_header_files = "KNIosCommonTool/Classes/PublicInterface/*.h"
-
+s.public_header_files = "KNIosCommonTool/Classes/PublicInterface/*.h"
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
