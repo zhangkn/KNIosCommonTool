@@ -62,6 +62,7 @@
 		E10947B020931BC000A1E659 /* KNIosCommonTool */ = {
 			isa = PBXGroup;
 			children = (
+				E10947D120931F5C00A1E659 /* Podspec Metadata */,
 				E10947CC20931C8E00A1E659 /* Classes */,
 				E10947B120931BC000A1E659 /* AppDelegate.h */,
 				E10947B220931BC000A1E659 /* AppDelegate.m */,
@@ -92,6 +93,13 @@
 				E10947C820931C6C00A1E659 /* HCPEnvrionmentalVariables.m */,
 			);
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		E10947D120931F5C00A1E659 /* Podspec Metadata */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

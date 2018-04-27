@@ -1,0 +1,1 @@
+/Users/devzkn/code/cocoapodDemo/podDemo/KNIosCommonTool/KNIosCommonTool/Podspec Metadata/KNIosCommonTool.podspec
